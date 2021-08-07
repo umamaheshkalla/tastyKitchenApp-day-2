@@ -1,0 +1,7 @@
+.all-restaurants-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 80vw;
+  flex-wrap: wrap;
+}
